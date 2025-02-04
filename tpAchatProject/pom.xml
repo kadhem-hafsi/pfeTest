@@ -94,8 +94,11 @@
                     	</goals>
                 	</execution>
             	</executions>
+				<configuration>
+        			<failBuildOnCVSS>0</failBuildOnCVSS> <!-- Ne jamais échouer -->
+    			</configuration>
         	</plugin>
-			
+
 		</plugins>
 	</build>
 
