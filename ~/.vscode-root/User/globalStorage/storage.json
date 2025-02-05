@@ -1683,10 +1683,10 @@
             "folder": "file:///root/devops/pfeTest/tpAchatProject",
             "backupPath": "/root/devops/pfeTest/~/.vscode-root/Backups/e981885d6f3aedb37f45a4ae7b013986",
             "uiState": {
-                "mode": 1,
-                "x": 70,
+                "mode": 0,
+                "x": 994,
                 "y": 64,
-                "width": 1848,
+                "width": 924,
                 "height": 824,
                 "zoomLevel": 1
             }
