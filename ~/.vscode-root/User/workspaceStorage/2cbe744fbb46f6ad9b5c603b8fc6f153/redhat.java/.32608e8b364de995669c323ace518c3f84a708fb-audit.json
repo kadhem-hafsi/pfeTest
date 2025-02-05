@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/root/devops/pfeTest/~/.vscode-root/User/workspaceStorage/2cbe744fbb46f6ad9b5c603b8fc6f153/redhat.java/.32608e8b364de995669c323ace518c3f84a708fb-audit.json",
+    "files": [
+        {
+            "date": 1738740662550,
+            "name": "/root/devops/pfeTest/~/.vscode-root/User/workspaceStorage/2cbe744fbb46f6ad9b5c603b8fc6f153/redhat.java/client.log.2025-02-05",
+            "hash": "fd0c765ce268669b6f9afd1989b10a88f03a63cfa5fea2547e07c5a6f8dea596"
+        }
+    ],
+    "hashType": "sha256"
+}
