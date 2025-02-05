@@ -1,4 +1,3 @@
-file:///root/devops/pfeTest/tpAchatProject/Dockerfile {"mtime":1738759788196,"ctime":1738759788196,"size":0,"etag":"3dn4cs75l0","orphaned":false,"typeId":""}
 FROM openjdk:11-jdk-slim
 WORKDIR /app
 COPY target/4Arctic-G1-projetdevops3-1.0.jar 4Artic-G1-projetdevops3-1.0.jar
